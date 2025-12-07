@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DATT\\DAtotnghiep\\LapTopStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\views\\cart\\emptycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:views\\cart\\emptycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -95,6 +99,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAOEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T02:50:13.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EmptyCart.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Cart\\EmptyCart.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\EmptyCart.cshtml",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Cart\\Cart.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Cart.cshtml",
@@ -115,12 +132,11 @@
               "RelativeToolTip": "Views\\Cart\\Cart.cshtml",
               "ViewState": "AgIAANYAAAAAAAAAAAAAANYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-07T02:48:23.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T02:48:23.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
@@ -128,12 +144,11 @@
               "RelativeToolTip": "Views\\Blog\\Index.cshtml",
               "ViewState": "AgIAAFMAAAAAAAAAAAAAAFwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-07T02:44:55.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T02:44:55.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "QuenMatKhau.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\QuenMatKhau.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\QuenMatKhau.cshtml",
@@ -145,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Order.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\Order.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Order.cshtml",
@@ -157,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
@@ -169,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Favorite.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\Favorite.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Favorite.cshtml",
@@ -181,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Edit.cshtml",
@@ -193,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DatLaiMatKhau.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\DatLaiMatKhau.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\DatLaiMatKhau.cshtml",
