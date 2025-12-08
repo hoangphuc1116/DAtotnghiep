@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "D:\\DATT\\DAtotnghiep\\LapTopStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\yeuthich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\yeuthich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\xa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\xa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\thuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\thuonghieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\thuoctinhsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\thuoctinhsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\tokenkhoiphucmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\tokenkhoiphucmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\tinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\tinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\sanphamthuoctinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\sanphamthuoctinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|d:\\datt\\datotnghiep\\laptopstore\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{543A401F-CF94-4C1D-B28F-13D2B8948D57}|LapTopStore.csproj|solutionrelative:models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -223,6 +263,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "YeuThich.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\YeuThich.cs",
+              "RelativeDocumentMoniker": "Models\\YeuThich.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\YeuThich.cs",
+              "RelativeToolTip": "Models\\YeuThich.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:37:43.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Xa.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\Xa.cs",
+              "RelativeDocumentMoniker": "Models\\Xa.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\Xa.cs",
+              "RelativeToolTip": "Models\\Xa.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:37:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VaiTro.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\VaiTro.cs",
+              "RelativeDocumentMoniker": "Models\\VaiTro.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\VaiTro.cs",
+              "RelativeToolTip": "Models\\VaiTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:36:50.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThuongHieu.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\ThuongHieu.cs",
+              "RelativeDocumentMoniker": "Models\\ThuongHieu.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\ThuongHieu.cs",
+              "RelativeToolTip": "Models\\ThuongHieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:36:29.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThuocTinhSanPham.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\ThuocTinhSanPham.cs",
+              "RelativeDocumentMoniker": "Models\\ThuocTinhSanPham.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\ThuocTinhSanPham.cs",
+              "RelativeToolTip": "Models\\ThuocTinhSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:36:09.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenKhoiPhucMatKhau.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\TokenKhoiPhucMatKhau.cs",
+              "RelativeDocumentMoniker": "Models\\TokenKhoiPhucMatKhau.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\TokenKhoiPhucMatKhau.cs",
+              "RelativeToolTip": "Models\\TokenKhoiPhucMatKhau.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:35:30.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tinh.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\Tinh.cs",
+              "RelativeDocumentMoniker": "Models\\Tinh.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\Tinh.cs",
+              "RelativeToolTip": "Models\\Tinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:35:13.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Models\\TaiKhoan.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\TaiKhoan.cs",
+              "RelativeToolTip": "Models\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:34:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:34:10.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPhamThuocTinh.cs",
+              "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\SanPhamThuocTinh.cs",
+              "RelativeDocumentMoniker": "Models\\SanPhamThuocTinh.cs",
+              "ToolTip": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\SanPhamThuocTinh.cs",
+              "RelativeToolTip": "Models\\SanPhamThuocTinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:33:47.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SanPham.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\SanPham.cs",
               "RelativeDocumentMoniker": "Models\\SanPham.cs",
@@ -235,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "LienHe.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\LienHe.cs",
               "RelativeDocumentMoniker": "Models\\LienHe.cs",
@@ -243,12 +413,11 @@
               "RelativeToolTip": "Models\\LienHe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T17:30:57.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T17:30:57.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\KhachHang.cs",
               "RelativeDocumentMoniker": "Models\\KhachHang.cs",
@@ -256,12 +425,11 @@
               "RelativeToolTip": "Models\\KhachHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T17:30:24.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T17:30:24.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Huyen.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\Huyen.cs",
               "RelativeDocumentMoniker": "Models\\Huyen.cs",
@@ -269,12 +437,11 @@
               "RelativeToolTip": "Models\\Huyen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T17:29:44.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T17:29:44.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "HoaDon.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\HoaDon.cs",
               "RelativeDocumentMoniker": "Models\\HoaDon.cs",
@@ -282,12 +449,11 @@
               "RelativeToolTip": "Models\\HoaDon.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T17:23:19.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T17:23:19.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "HinhAnhSanPham.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\HinhAnhSanPham.cs",
               "RelativeDocumentMoniker": "Models\\HinhAnhSanPham.cs",
@@ -299,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "HinhAnhBaiViet.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\HinhAnhBaiViet.cs",
               "RelativeDocumentMoniker": "Models\\HinhAnhBaiViet.cs",
@@ -311,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "GioiThieu.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\GioiThieu.cs",
               "RelativeDocumentMoniker": "Models\\GioiThieu.cs",
@@ -323,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "GiaTriThuocTinh.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\GiaTriThuocTinh.cs",
               "RelativeDocumentMoniker": "Models\\GiaTriThuocTinh.cs",
@@ -335,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "FooterLink.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\FooterLink.cs",
               "RelativeDocumentMoniker": "Models\\FooterLink.cs",
@@ -347,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Footer.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\Footer.cs",
               "RelativeDocumentMoniker": "Models\\Footer.cs",
@@ -359,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\EmailSettings.cs",
               "RelativeDocumentMoniker": "Models\\EmailSettings.cs",
@@ -371,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "LaptTopContext.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\LaptTopContext.cs",
               "RelativeDocumentMoniker": "Models\\LaptTopContext.cs",
@@ -383,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "DanhGiaSanPham.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\DanhGiaSanPham.cs",
               "RelativeDocumentMoniker": "Models\\DanhGiaSanPham.cs",
@@ -395,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "ChinhSach.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\ChinhSach.cs",
               "RelativeDocumentMoniker": "Models\\ChinhSach.cs",
@@ -407,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "BinhLuanSanPham.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\BinhLuanSanPham.cs",
               "RelativeDocumentMoniker": "Models\\BinhLuanSanPham.cs",
@@ -419,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "BaiViet.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\BaiViet.cs",
               "RelativeDocumentMoniker": "Models\\BaiViet.cs",
@@ -431,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "DanhMuc.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\DanhMuc.cs",
               "RelativeDocumentMoniker": "Models\\DanhMuc.cs",
@@ -443,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "ChiTietHoaDon.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Models\\ChiTietHoaDon.cs",
               "RelativeDocumentMoniker": "Models\\ChiTietHoaDon.cs",
@@ -455,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -467,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "SearchProduct.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Product\\SearchProduct.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\SearchProduct.cshtml",
@@ -479,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "ProductDetail.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Product\\ProductDetail.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\ProductDetail.cshtml",
@@ -491,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
@@ -503,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -515,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "Introduction.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Home\\Introduction.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Introduction.cshtml",
@@ -527,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -539,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "Favorite.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Home\\Favorite.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Favorite.cshtml",
@@ -551,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
@@ -563,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "404.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Home\\404.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\404.cshtml",
@@ -575,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "OrderSuccess.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Checkout\\OrderSuccess.cshtml",
               "RelativeDocumentMoniker": "Views\\Checkout\\OrderSuccess.cshtml",
@@ -587,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Checkout\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Checkout\\Index.cshtml",
@@ -599,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
@@ -611,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "EmptyCart.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Cart\\EmptyCart.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\EmptyCart.cshtml",
@@ -623,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Cart\\Cart.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Cart.cshtml",
@@ -635,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
@@ -647,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 45,
               "Title": "QuenMatKhau.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\QuenMatKhau.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\QuenMatKhau.cshtml",
@@ -659,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "Order.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\Order.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Order.cshtml",
@@ -671,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 47,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
@@ -683,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 48,
               "Title": "Favorite.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\Favorite.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Favorite.cshtml",
@@ -695,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 49,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Edit.cshtml",
@@ -707,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 50,
               "Title": "DatLaiMatKhau.cshtml",
               "DocumentMoniker": "D:\\DATT\\DAtotnghiep\\LapTopStore\\Views\\Account\\DatLaiMatKhau.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\DatLaiMatKhau.cshtml",
